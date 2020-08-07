@@ -1,0 +1,11 @@
+Download Pip Command:
+
+py -m pip install --upgrade pip --user
+
+Check if PATH exists:
+echo %PATH%
+
+
+If not then set it using:
+setx PATH 'C:\Users\luzrodri\AppData\Local\Programs\Python\Python37\Scripts'
+****** note this is example
